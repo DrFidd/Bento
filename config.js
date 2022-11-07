@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'James',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'building-2',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Knaben',
+					link: 'https://knaben.eu/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Amazon',
+					link: 'https://www.amazon.co.uk/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Ebuyer',
+					link: 'https://www.ebuyer.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Patreon',
+					link: 'https://www.patreon.com/home',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Origin',
+					link: 'https://www.origincoffee.co.uk/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Ebay',
+					link: 'https://www.ebay.co.uk/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Color Palettes',
+					link: 'https://www.color-hex.com/color-palettes/popular.php',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Wallhaven',
+					link: 'https://wallhaven.cc/',
 				},
 			],
 		},
