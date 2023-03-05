@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: '/g/',
-			icon: 'clover',
-			link: 'https://boards.4channel.org/g/catalog',
+			name: 'Tidal',
+			icon: 'headphones',
+			link: 'https://listen.tidal.com/',
 		},
 	],
 
@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://www.origincoffee.co.uk/',
 				},
 				{
-					name: 'Ebay',
-					link: 'https://www.ebay.co.uk/',
+					name: 'MPB',
+					link: 'https://www.mpb.com/en-uk',
 				},
 				{
 					name: 'Color Palettes',
