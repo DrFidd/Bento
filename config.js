@@ -157,20 +157,20 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'podcast',
 			id: '2',
 			links: [
 				{
-					name: 'Origin',
-					link: 'https://www.origincoffee.co.uk/',
+					name: 'Tidal',
+					link: 'https://listen.tidal.com/',
 				},
 				{
-					name: 'MPB',
-					link: 'https://www.mpb.com/en-uk',
+					name: 'Blindwave',
+					link: 'https://blindwavellc.com/',
 				},
 				{
-					name: 'Color Palettes',
-					link: 'https://www.color-hex.com/color-palettes/popular.php',
+					name: 'Dropout',
+					link: 'https://www.dropout.tv/browse',
 				},
 				{
 					name: 'Wallhaven',
