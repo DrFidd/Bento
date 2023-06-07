@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Stable Diffusion',
+			icon: 'brain-circuit',
+			link: 'http://127.0.0.1:7860/',
 		},
 		{
 			id: '6',
