@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'ad8e57e0ac9f957f6f4533b3fdbd8454', // Write here your API Key
@@ -135,20 +135,20 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'building-2',
+			icon: 'star',
 			id: '1',
 			links: [
 				{
-					name: 'Knaben',
-					link: 'https://knaben.eu/',
+					name: 'Home Assistant',
+					link: 'https://anywherehass.duckdns.org:8123/lovelace-desktop/0',
 				},
 				{
-					name: 'Amazon',
-					link: 'https://www.amazon.co.uk/',
+					name: 'Tumblr',
+					link: 'https://www.tumblr.com/',
 				},
 				{
-					name: 'Ebuyer',
-					link: 'https://www.ebuyer.com/',
+					name: 'Youtube',
+					link: 'https://www.youtube.com/',
 				},
 				{
 					name: 'Patreon',
@@ -183,24 +183,24 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'map',
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Cloud Cover',
+					link: 'https://www.metoffice.gov.uk/weather/maps-and-charts/cloud-cover-map#?bbox=[[51.22580788296972,-3.6776733398437504],[53.34071328580364,0.7855224609375001]]&model=ukmo-ukv&layer=cloud-amount-total&timestep=1693638000000',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Met Office',
+					link: 'https://www.metoffice.gov.uk/weather/forecast/gcr1gjzbq#?date=2023-09-02',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'OpenWeatherMap',
+					link: 'https://openweathermap.org/city/2638978',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Google Maps',
+					link: 'https://www.google.com/maps',
 				},
 			],
 		},
@@ -209,20 +209,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'Knaben',
+					link: 'https://knaben.eu/',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'Amazon',
+					link: 'https://www.amazon.co.uk/',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'Ebuyer',
+					link: 'https://www.ebuyer.com/',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'MPB - Lenses',
+					link: 'https://www.mpb.com/en-uk/category/used-photo-and-video-lenses/mirrorless-lenses/micro-four-thirds-fit-lenses',
 				},
 			],
 		},
