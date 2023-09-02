@@ -139,7 +139,7 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Home Assistant',
+					name: 'HA',
 					link: 'https://anywherehass.duckdns.org:8123/lovelace-desktop/0',
 				},
 				{
@@ -187,19 +187,19 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Cloud Cover',
+					name: 'Clouds',
 					link: 'https://www.metoffice.gov.uk/weather/maps-and-charts/cloud-cover-map#?bbox=[[51.22580788296972,-3.6776733398437504],[53.34071328580364,0.7855224609375001]]&model=ukmo-ukv&layer=cloud-amount-total&timestep=1693638000000',
 				},
 				{
-					name: 'Met Office',
+					name: 'Met',
 					link: 'https://www.metoffice.gov.uk/weather/forecast/gcr1gjzbq#?date=2023-09-02',
 				},
 				{
-					name: 'OpenWeatherMap',
+					name: 'OWM',
 					link: 'https://openweathermap.org/city/2638978',
 				},
 				{
-					name: 'Google Maps',
+					name: 'G-Maps',
 					link: 'https://www.google.com/maps',
 				},
 			],
@@ -221,7 +221,7 @@ const CONFIG = {
 					link: 'https://www.ebuyer.com/',
 				},
 				{
-					name: 'MPB - Lenses',
+					name: 'MPB',
 					link: 'https://www.mpb.com/en-uk/category/used-photo-and-video-lenses/mirrorless-lenses/micro-four-thirds-fit-lenses',
 				},
 			],
