@@ -187,8 +187,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Clouds',
-					link: 'https://www.metoffice.gov.uk/weather/maps-and-charts/cloud-cover-map#?bbox=[[51.22580788296972,-3.6776733398437504],[53.34071328580364,0.7855224609375001]]&model=ukmo-ukv&layer=cloud-amount-total&timestep=1693638000000',
+					name: 'Astro',
+					link: 'https://clearoutside.com/forecast/52.38/-1.25',
 				},
 				{
 					name: 'Met',
